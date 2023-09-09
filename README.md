@@ -21,4 +21,4 @@ Only `.wav` files supported for now :(
 ## Dependencies
 * OpenAL Soft - https://github.com/kcat/openal-soft
 
-This is a single-header library. Once you've linked OpenAL to your project, include the `.hpp` and `.cpp` file to your project and you're good to go. You can also compile the source code into a static library if you prefer.
+This is a single-header library. Once you've linked OpenAL to your project, include the `.hpp` and `.cpp` file to your project and you're good to go! You can also compile the source code into a static library if you prefer.
